@@ -1,0 +1,4 @@
+Имя: Радомир Нармухамедов, Email: radomir@example.com, Телефон: +996700123456
+Имя: Адель AleliEva, Email: adel@mail.ru, Телефон: +996707654321
+Имя: Сезим 2334, Email: sezim@gmail.com, Телефон: +996550112233
+Имя: Нуркыз_ffff, Email: nurkyz@geeks.kg, Телефон: +996770998877
